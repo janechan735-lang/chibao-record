@@ -1,0 +1,10 @@
+{
+  "name": "展翅高飞·翅煲记录",
+  "short_name": "翅煲记录",
+  "description": "属于翅煲的私人追星记录台",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF9F7",
+  "theme_color": "#E60012",
+  "icons": [{"src":"./wing.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
